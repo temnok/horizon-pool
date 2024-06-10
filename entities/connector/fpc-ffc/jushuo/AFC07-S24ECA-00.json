@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "1948a52e-9601-49e6-bafb-b94aa6f0247a": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "fe192538-e099-4a0e-a078-9a91bc978e43"
+        }
+    },
+    "manufacturer": "Jushuo",
+    "name": "AFC07-S24ECA-00",
+    "prefix": "FPC",
+    "tags": [],
+    "type": "entity",
+    "uuid": "5c440fa7-2532-44d9-be5c-46fb93726a3a"
+}

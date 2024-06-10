@@ -1,0 +1,137 @@
+{
+    "MPN": [
+        false,
+        "AFC07-S24ECA-00"
+    ],
+    "datasheet": [
+        false,
+        "https://lcsc.com/product-detail/Others_JUSHUO-AFC07-S24ECA-00_C262643.html"
+    ],
+    "description": [
+        false,
+        "FPC/FFC connector"
+    ],
+    "entity": "5c440fa7-2532-44d9-be5c-46fb93726a3a",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Jushuo"
+    ],
+    "model": "11694751-77c1-45e8-a9f4-f651327b8ce5",
+    "package": "361ee12f-f955-4adb-b1c9-d08ca220fbb1",
+    "pad_map": {
+        "07434db6-bfd4-49b6-8148-cf9823fec087": {
+            "gate": "1948a52e-9601-49e6-bafb-b94aa6f0247a",
+            "pin": "d54db58b-6615-426f-9bc0-a93751c5834d"
+        },
+        "1c0c8293-3945-4c72-ad55-26f9d71689c7": {
+            "gate": "1948a52e-9601-49e6-bafb-b94aa6f0247a",
+            "pin": "27811dc5-8868-49e4-8d77-61d0c2180e02"
+        },
+        "1ddf97c6-a7d4-4f73-9a9c-7f2fb8d84c8f": {
+            "gate": "1948a52e-9601-49e6-bafb-b94aa6f0247a",
+            "pin": "36eb0799-9d40-4217-b1c7-faf9a7cc6233"
+        },
+        "2d4f6a1f-d8e8-46d1-999e-570394de2712": {
+            "gate": "1948a52e-9601-49e6-bafb-b94aa6f0247a",
+            "pin": "3d081411-1f13-477f-bba5-c774f147df19"
+        },
+        "32c8e1de-f940-4c62-856b-7d4554785731": {
+            "gate": "1948a52e-9601-49e6-bafb-b94aa6f0247a",
+            "pin": "411ac2e4-89d6-4cc3-b55d-cd8febe1786e"
+        },
+        "37e4b1ef-2aca-42e7-99b8-e125cfe40a55": {
+            "gate": "1948a52e-9601-49e6-bafb-b94aa6f0247a",
+            "pin": "6c78124a-1a03-4111-97d1-c3489edacde7"
+        },
+        "45fb7f72-7dcc-49fa-8aa2-e2b2a48f8936": {
+            "gate": "1948a52e-9601-49e6-bafb-b94aa6f0247a",
+            "pin": "ed94aced-d5f9-48a4-9a5b-c87bb0cd28b8"
+        },
+        "4997e6cb-e838-4a7a-bb60-2b499e3e5565": {
+            "gate": "1948a52e-9601-49e6-bafb-b94aa6f0247a",
+            "pin": "b331929d-679b-4fb1-b4b2-88def07028f6"
+        },
+        "57514bb9-3311-4cf5-b6cf-b05789841804": {
+            "gate": "1948a52e-9601-49e6-bafb-b94aa6f0247a",
+            "pin": "eb4ab8ad-024f-4605-b031-8e49d51eb6b4"
+        },
+        "59d1f22b-8da6-40fe-b3cd-c20326001748": {
+            "gate": "1948a52e-9601-49e6-bafb-b94aa6f0247a",
+            "pin": "e784aeb6-9300-4f23-9cf8-4bc98d0b74da"
+        },
+        "640a6657-ae12-4389-9b7b-852d31f6c519": {
+            "gate": "1948a52e-9601-49e6-bafb-b94aa6f0247a",
+            "pin": "0a840eb8-43c9-41c3-967e-c2301eaca329"
+        },
+        "743a9e80-46ee-46e7-ae07-82e48145a12d": {
+            "gate": "1948a52e-9601-49e6-bafb-b94aa6f0247a",
+            "pin": "37ced264-82f6-4b6f-a0f0-2f2a1393f6e6"
+        },
+        "81c8ad97-b570-4b5b-b193-7b9387c1b8e2": {
+            "gate": "1948a52e-9601-49e6-bafb-b94aa6f0247a",
+            "pin": "b595d4ea-48a8-46a4-92fe-1fd6d3d2c94c"
+        },
+        "839c939f-e13e-4ec9-9d19-bbf23e9e8a0f": {
+            "gate": "1948a52e-9601-49e6-bafb-b94aa6f0247a",
+            "pin": "7be43526-27b7-405e-9261-3acbbdbf5263"
+        },
+        "89391856-3b23-42d0-92a2-16d2c56569d8": {
+            "gate": "1948a52e-9601-49e6-bafb-b94aa6f0247a",
+            "pin": "ab54de58-1a8d-4500-ab36-74145ada12d1"
+        },
+        "8b7043d2-b70d-4e8d-9d23-33a4e0c244aa": {
+            "gate": "1948a52e-9601-49e6-bafb-b94aa6f0247a",
+            "pin": "43bb017a-6089-4248-a0d2-22a2f2d89f5e"
+        },
+        "8ff8205f-1fe8-45ad-9e0e-6cc9cbd060a4": {
+            "gate": "1948a52e-9601-49e6-bafb-b94aa6f0247a",
+            "pin": "a7c531f5-c358-4f9d-a713-05b33e30fa02"
+        },
+        "932b6d50-9af5-463f-b203-723513a2279d": {
+            "gate": "1948a52e-9601-49e6-bafb-b94aa6f0247a",
+            "pin": "7ba42c01-61af-4795-92de-9525332e480b"
+        },
+        "a2948bd7-926b-492a-95af-96db4a78114f": {
+            "gate": "1948a52e-9601-49e6-bafb-b94aa6f0247a",
+            "pin": "e8a6c4aa-5dfb-40f7-a6f8-e49a805f2475"
+        },
+        "bef829c2-d85e-40e2-aa3b-58a6ad4da2ed": {
+            "gate": "1948a52e-9601-49e6-bafb-b94aa6f0247a",
+            "pin": "e2094dc5-5c85-4123-b153-1478c0a9b3f9"
+        },
+        "c785dee6-b3d9-4041-9dfa-b75d581f2030": {
+            "gate": "1948a52e-9601-49e6-bafb-b94aa6f0247a",
+            "pin": "2a94d81f-2cc8-42ae-be69-6c9ff3a699e1"
+        },
+        "cb37c6dd-e9a9-4f14-a68a-f39fb498c4c2": {
+            "gate": "1948a52e-9601-49e6-bafb-b94aa6f0247a",
+            "pin": "11008100-40d6-4730-a1c1-46e1678b1a8e"
+        },
+        "cb462ead-a438-402d-8869-0fd7e1c578a0": {
+            "gate": "1948a52e-9601-49e6-bafb-b94aa6f0247a",
+            "pin": "1e214706-f2d0-4c3a-a845-fb49902a8c61"
+        },
+        "e8221e95-cce3-4639-bc51-69b56579870f": {
+            "gate": "1948a52e-9601-49e6-bafb-b94aa6f0247a",
+            "pin": "4691be34-cf8d-4f6d-9402-ae748e24a911"
+        },
+        "eec26bb8-da09-41c8-ac39-850992bba558": {
+            "gate": "1948a52e-9601-49e6-bafb-b94aa6f0247a",
+            "pin": "e5a22a4e-d537-42d5-bc92-ee349117869a"
+        },
+        "f5a22058-553e-40f1-97b9-fc5ae45bc10c": {
+            "gate": "1948a52e-9601-49e6-bafb-b94aa6f0247a",
+            "pin": "3c98e154-9d45-4399-8cd6-cafc6a28f031"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "47373ccc-5e43-4b88-bae1-70fccb5eef01",
+    "value": [
+        false,
+        ""
+    ]
+}

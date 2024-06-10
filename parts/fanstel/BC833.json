@@ -5,7 +5,7 @@
     ],
     "datasheet": [
         false,
-        ""
+        "https://www.fanstel.com/s/BC833M-p-Product_Specifications.pdf"
     ],
     "description": [
         false,
@@ -16,9 +16,9 @@
     "inherit_tags": false,
     "manufacturer": [
         false,
-        ""
+        "Fanstel"
     ],
-    "model": "00000000-0000-0000-0000-000000000000",
+    "model": "5572e6f4-1636-4885-a148-dc9b74620a27",
     "package": "362dffa9-c0c9-4428-88ba-ead31e3f1985",
     "pad_map": {
         "02682c0b-cf9d-4940-823d-b1a43bcef52c": {
