@@ -1,0 +1,176 @@
+{
+    "manufacturer": "Fanstel",
+    "name": "BC833",
+    "pins": {
+        "0c28b116-5217-4f92-9476-a557a2458b12": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P028",
+            "swap_group": 0
+        },
+        "0cfd6fb3-5b29-4d1a-b488-5a0a28b8abe3": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P003",
+            "swap_group": 0
+        },
+        "1ec050db-f328-4262-bbb0-dc503d513ff4": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P029",
+            "swap_group": 0
+        },
+        "222f448f-4393-4717-957b-2b93e0204d60": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P018/RST",
+            "swap_group": 0
+        },
+        "22560318-a5a0-4766-ba35-b21ada58a38a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P010",
+            "swap_group": 0
+        },
+        "2f75d51c-ab1d-4305-855e-9667ae9b4ace": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P004",
+            "swap_group": 0
+        },
+        "438f1ecf-4ec4-41cb-b8ce-61d88bdb7917": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P030",
+            "swap_group": 0
+        },
+        "4611765f-de5e-4140-bdda-37111b835b4c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P011",
+            "swap_group": 0
+        },
+        "52450393-7da0-44b5-8fcb-dd8b888556aa": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "6509b64a-1845-4906-b568-4aa0d244616a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P015",
+            "swap_group": 0
+        },
+        "6dfbbad9-8cb7-487c-92f9-eb562d2df953": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VBUS",
+            "swap_group": 0
+        },
+        "72211caf-1002-4ad6-90f0-5a940aab6a2e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SWDIO",
+            "swap_group": 0
+        },
+        "77c31af3-67a2-4432-9ee3-3d4a573ab514": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "79836333-cad5-4424-85a0-3f9e725d808c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P017",
+            "swap_group": 0
+        },
+        "8086ad90-ea77-49be-bc4b-b62962bad7db": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "895d0404-8811-4338-99ca-6dd7d9121a92": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P009",
+            "swap_group": 0
+        },
+        "9ec30ff9-eba8-4951-a672-9b1d664368a5": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D-",
+            "swap_group": 0
+        },
+        "a5e853d6-5f2d-457b-a2ad-e1e0412eaea6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VDDH",
+            "swap_group": 0
+        },
+        "b17ac8ce-6476-4075-b31c-ef9b55d7d34e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P005",
+            "swap_group": 0
+        },
+        "cdca6eea-eebe-400f-b673-17724c5be754": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P002",
+            "swap_group": 0
+        },
+        "cf61845a-6d35-4d6f-8f74-d9a227a3b1df": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "d0e66e0d-ef02-4c78-b053-b796566d236a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P031",
+            "swap_group": 0
+        },
+        "e04ed23d-2af7-4f49-a3c9-e0d9eb190fd1": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "e7d1f01d-f32e-4dd3-90ab-98951bac269a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P020",
+            "swap_group": 0
+        },
+        "e9a12dec-16e0-40cd-a052-00d8341c8767": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P109",
+            "swap_group": 0
+        },
+        "f05ca91f-5a73-44b1-854f-23fde5996cab": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "f337ac62-cf4b-4a11-b3b4-51390d1706b8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D+",
+            "swap_group": 0
+        },
+        "fff69f7f-de0f-4cd2-ab21-377c43ef13a6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SWCLK",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "521e2f35-a538-4c56-a954-a57ac2494255"
+}

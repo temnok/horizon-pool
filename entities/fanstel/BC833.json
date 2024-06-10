@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "cd8f9d57-39c8-45dd-80b0-1bd2e18fb73c": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "521e2f35-a538-4c56-a954-a57ac2494255"
+        }
+    },
+    "manufacturer": "Fanstel",
+    "name": "BC833",
+    "prefix": "U",
+    "tags": [
+        "fanstel"
+    ],
+    "type": "entity",
+    "uuid": "54e858bd-eee3-470e-a4a1-093529406334"
+}
