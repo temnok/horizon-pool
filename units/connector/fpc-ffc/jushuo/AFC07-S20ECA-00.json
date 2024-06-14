@@ -1,0 +1,140 @@
+{
+    "manufacturer": "",
+    "name": "AFC07-S20ECA-00",
+    "pins": {
+        "1e77cecd-49dc-4c68-9e70-b0b2c1d5084f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "9",
+            "swap_group": 0
+        },
+        "24b1cfbc-bdd4-4519-acb4-6d8e050c8f5f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "6",
+            "swap_group": 0
+        },
+        "336cd772-3b21-4032-8991-70a25d282f64": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "34366f9a-0510-4a8f-a696-808b215aa150": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "42f91251-bd1d-4fe1-b72b-ad7c929e0eca": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "7",
+            "swap_group": 0
+        },
+        "500adea3-fdc1-4749-aa2b-bb9164ba5099": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "5",
+            "swap_group": 0
+        },
+        "531704a4-dd47-4c55-b1a1-ee4ad1062a41": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "11",
+            "swap_group": 0
+        },
+        "75ca9d7b-eca0-4981-af20-b98be00857e5": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "22",
+            "swap_group": 0
+        },
+        "80a31607-5ca5-48d7-a73a-01c081bb200b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "15",
+            "swap_group": 0
+        },
+        "866ff458-bff2-458e-b3ef-02692a919b8d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "8",
+            "swap_group": 0
+        },
+        "8c1635e7-f6c4-4029-96b7-a8b0b5d0fc3b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "12",
+            "swap_group": 0
+        },
+        "960cd26d-a6b2-4c2f-b502-08f207d65fe3": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "13",
+            "swap_group": 0
+        },
+        "ac92fb76-176d-4506-9b89-2dff2b5ef7f2": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "16",
+            "swap_group": 0
+        },
+        "af77fc7c-732b-40b5-8b55-ca45343aa026": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "21",
+            "swap_group": 0
+        },
+        "b03a7d05-f6af-45df-b326-e1ae9d4895a9": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "17",
+            "swap_group": 0
+        },
+        "b7639afc-4702-4c0c-ab78-8bb13c831536": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "18",
+            "swap_group": 0
+        },
+        "cb23a0cc-24ad-4c53-b052-96c116e2a442": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "20",
+            "swap_group": 0
+        },
+        "e35fab62-d07c-4913-aee7-c9b4053251ed": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "10",
+            "swap_group": 0
+        },
+        "ecf39107-d5dd-4a5f-b178-738339fd0b4b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "19",
+            "swap_group": 0
+        },
+        "ed1d78ca-c662-48d3-89e3-ef3b1f0c0a9e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "f38c51a2-715c-4fd8-b23e-d63b3ca63d0a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "fba2460d-4fbe-4da7-b65c-c324d941d126": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "14",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "75a99218-04ad-43a5-bc61-0fda54b45eb0"
+}

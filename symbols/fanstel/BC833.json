@@ -558,7 +558,25 @@
     },
     "polygons": {},
     "text_placements": {},
-    "texts": {},
+    "texts": {
+        "64d2de3a-4239-4d18-a632-3074f5a7ef6e": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -6250000,
+                    0
+                ]
+            },
+            "size": 2500000,
+            "text": "BC833",
+            "width": 0
+        }
+    },
     "type": "symbol",
     "unit": "521e2f35-a538-4c56-a954-a57ac2494255",
     "uuid": "eadb28c6-2dca-41e1-8910-15770e40eac6"
