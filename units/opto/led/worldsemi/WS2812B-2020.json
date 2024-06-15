@@ -1,0 +1,32 @@
+{
+    "manufacturer": "",
+    "name": "WS2812B-2020",
+    "pins": {
+        "0cfe0c89-940b-4cfd-86a5-2ef3cbb0e213": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "ae947b84-60c8-4a01-8770-fe54f7cf265c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "bd304e40-af87-4bc6-8ed8-bc7de78b9eaf": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DO",
+            "swap_group": 0
+        },
+        "f3b3009e-d447-4650-aa05-57e40f9b8caf": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DI",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "4bdb922f-08d5-4764-809c-a02e359f2010"
+}

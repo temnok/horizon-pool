@@ -1,0 +1,240 @@
+{
+    "arcs": {},
+    "default_model": "48d7ff3c-1745-4abb-b9d7-a0048c4183bb",
+    "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 1000000
+        },
+        "grids": {}
+    },
+    "junctions": {
+        "1ab77bec-ed12-45cb-acb9-ed2c412f025f": {
+            "position": [
+                -100000,
+                -650000
+            ]
+        },
+        "2130cc11-eb98-4209-8928-b4b4813f771b": {
+            "position": [
+                1000000,
+                1100000
+            ]
+        },
+        "43bcdb5b-a959-4541-a648-6201a86e829c": {
+            "position": [
+                -250000,
+                750000
+            ]
+        },
+        "49e4236c-e32a-470d-92f3-749944483c0c": {
+            "position": [
+                -100000,
+                -700000
+            ]
+        },
+        "50496a06-7746-4ad8-9908-8b56d01ca240": {
+            "position": [
+                -1000000,
+                1100000
+            ]
+        },
+        "582dd1e3-8947-4d55-9c3c-4e1ffff44465": {
+            "position": [
+                -250000,
+                -700000
+            ]
+        },
+        "7100a638-249f-4ee5-a121-77c7d0b3abef": {
+            "position": [
+                -1300000,
+                1150000
+            ]
+        },
+        "9adf782c-f05e-4349-aa7e-7c3ba8225640": {
+            "position": [
+                -1000000,
+                -1100000
+            ]
+        },
+        "a9a4d0ed-4d4d-4045-ae67-d186118ff22e": {
+            "position": [
+                1000000,
+                -1100000
+            ]
+        },
+        "d1ae45be-0c3c-4a1e-b4c9-8f41dd41852c": {
+            "position": [
+                -100000,
+                750000
+            ]
+        },
+        "e46cf731-6f8c-412f-a6d5-236e8abb3da8": {
+            "position": [
+                -1300000,
+                1140000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {
+        "0ca42ea2-b089-43c4-9b04-8b151423e66d": {
+            "from": "43bcdb5b-a959-4541-a648-6201a86e829c",
+            "layer": 20,
+            "to": "582dd1e3-8947-4d55-9c3c-4e1ffff44465",
+            "width": 150000
+        },
+        "21b75e80-b11a-4c3b-8dde-b209a213a4fa": {
+            "from": "d1ae45be-0c3c-4a1e-b4c9-8f41dd41852c",
+            "layer": 20,
+            "to": "1ab77bec-ed12-45cb-acb9-ed2c412f025f",
+            "width": 150000
+        },
+        "6e8ed093-8b38-4948-a6d9-c4b86d6c6352": {
+            "from": "43bcdb5b-a959-4541-a648-6201a86e829c",
+            "layer": 20,
+            "to": "d1ae45be-0c3c-4a1e-b4c9-8f41dd41852c",
+            "width": 150000
+        },
+        "78ed368b-6145-46f2-8757-7a0a821c878c": {
+            "from": "2130cc11-eb98-4209-8928-b4b4813f771b",
+            "layer": 20,
+            "to": "50496a06-7746-4ad8-9908-8b56d01ca240",
+            "width": 150000
+        },
+        "7d19a686-6ba8-43a0-92ee-99097373a130": {
+            "from": "9adf782c-f05e-4349-aa7e-7c3ba8225640",
+            "layer": 20,
+            "to": "a9a4d0ed-4d4d-4045-ae67-d186118ff22e",
+            "width": 150000
+        },
+        "87180706-9015-4797-ad60-7ab7c7c2ecde": {
+            "from": "49e4236c-e32a-470d-92f3-749944483c0c",
+            "layer": 20,
+            "to": "582dd1e3-8947-4d55-9c3c-4e1ffff44465",
+            "width": 150000
+        },
+        "ef7d5a6f-21a2-4044-9706-4e4436dce50f": {
+            "from": "7100a638-249f-4ee5-a121-77c7d0b3abef",
+            "layer": 20,
+            "to": "e46cf731-6f8c-412f-a6d5-236e8abb3da8",
+            "width": 250000
+        },
+        "fb1da6b8-2833-4a98-b6c3-ab75c45547ff": {
+            "from": "1ab77bec-ed12-45cb-acb9-ed2c412f025f",
+            "layer": 20,
+            "to": "49e4236c-e32a-470d-92f3-749944483c0c",
+            "width": 150000
+        }
+    },
+    "manufacturer": "Worldsemi",
+    "models": {
+        "48d7ff3c-1745-4abb-b9d7-a0048c4183bb": {
+            "filename": "3d_models/opto/led/worldsemi/WS2812B-2020.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
+    "name": "WS2812B-2020",
+    "pads": {
+        "302e37f5-5088-48d4-afb4-31ceb03d3cc2": {
+            "name": "1",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 700000,
+                "pad_width": 900000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -920000,
+                    550000
+                ]
+            }
+        },
+        "38eeb061-32ef-4fa6-875b-fb13e788027e": {
+            "name": "4",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 700000,
+                "pad_width": 900000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    920000,
+                    550000
+                ]
+            }
+        },
+        "9ba1ed08-1b7c-4f62-b084-05191d521e04": {
+            "name": "3",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 700000,
+                "pad_width": 900000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    920000,
+                    -550000
+                ]
+            }
+        },
+        "fcb2e004-2cac-424d-8a6b-413c7bf2829e": {
+            "name": "2",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 700000,
+                "pad_width": 900000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -920000,
+                    -550000
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {},
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [
+        "led"
+    ],
+    "texts": {},
+    "type": "package",
+    "uuid": "a4984676-83aa-4813-a117-2e859d48bb03"
+}

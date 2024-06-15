@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "WS2812B-2020"
+    ],
+    "datasheet": [
+        false,
+        "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-2020_C965555.html"
+    ],
+    "description": [
+        false,
+        "RGB LED with integrated controller"
+    ],
+    "entity": "5b7d463b-6856-42a3-b318-72c038d159c9",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Worldsemi"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "a4984676-83aa-4813-a117-2e859d48bb03",
+    "pad_map": {
+        "302e37f5-5088-48d4-afb4-31ceb03d3cc2": {
+            "gate": "3ef18c41-8091-404d-90ad-3ee10c4b9785",
+            "pin": "bd304e40-af87-4bc6-8ed8-bc7de78b9eaf"
+        },
+        "38eeb061-32ef-4fa6-875b-fb13e788027e": {
+            "gate": "3ef18c41-8091-404d-90ad-3ee10c4b9785",
+            "pin": "ae947b84-60c8-4a01-8770-fe54f7cf265c"
+        },
+        "9ba1ed08-1b7c-4f62-b084-05191d521e04": {
+            "gate": "3ef18c41-8091-404d-90ad-3ee10c4b9785",
+            "pin": "f3b3009e-d447-4650-aa05-57e40f9b8caf"
+        },
+        "fcb2e004-2cac-424d-8a6b-413c7bf2829e": {
+            "gate": "3ef18c41-8091-404d-90ad-3ee10c4b9785",
+            "pin": "0cfe0c89-940b-4cfd-86a5-2ef3cbb0e213"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "ec25b3cc-64e6-4fbd-8527-ff56b99fb7d9",
+    "value": [
+        false,
+        ""
+    ]
+}

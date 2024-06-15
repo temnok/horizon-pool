@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "3ef18c41-8091-404d-90ad-3ee10c4b9785": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "4bdb922f-08d5-4764-809c-a02e359f2010"
+        }
+    },
+    "manufacturer": "",
+    "name": "WS2812B-2020",
+    "prefix": "LED",
+    "tags": [],
+    "type": "entity",
+    "uuid": "5b7d463b-6856-42a3-b318-72c038d159c9"
+}
