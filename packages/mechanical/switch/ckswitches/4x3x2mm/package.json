@@ -1,0 +1,154 @@
+{
+    "arcs": {},
+    "default_model": "0a77f23f-ff77-494e-adf5-62ed896580d4",
+    "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 1000000
+        },
+        "grids": {}
+    },
+    "junctions": {
+        "04691df2-9acd-4880-824c-8a728f4079f6": {
+            "position": [
+                2029999,
+                1540000
+            ]
+        },
+        "172b0491-ebfd-4c9b-ba89-fdf58e726787": {
+            "position": [
+                2029999,
+                -1540000
+            ]
+        },
+        "299cd721-98b0-439d-ba77-8f4a82738839": {
+            "position": [
+                -2029999,
+                880000
+            ]
+        },
+        "3a011179-b3e1-4c8f-b2ed-d3e6a5a6756a": {
+            "position": [
+                -2029999,
+                -1540000
+            ]
+        },
+        "7ebe7e3c-e34f-43e4-bf30-72ac3aea0e7b": {
+            "position": [
+                -2029999,
+                -880000
+            ]
+        },
+        "adf3ce31-2562-47f0-8a9d-8c39ab38e18a": {
+            "position": [
+                -2029999,
+                1540000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {
+        "0c58088d-aa46-4243-b70c-273b0373bcc9": {
+            "from": "adf3ce31-2562-47f0-8a9d-8c39ab38e18a",
+            "layer": 20,
+            "to": "299cd721-98b0-439d-ba77-8f4a82738839",
+            "width": 150000
+        },
+        "8b4be285-68d3-453f-81d2-ecd253977bd9": {
+            "from": "04691df2-9acd-4880-824c-8a728f4079f6",
+            "layer": 20,
+            "to": "adf3ce31-2562-47f0-8a9d-8c39ab38e18a",
+            "width": 150000
+        },
+        "ab208e59-c873-4ff6-99e8-d3b30cbfd1ea": {
+            "from": "3a011179-b3e1-4c8f-b2ed-d3e6a5a6756a",
+            "layer": 20,
+            "to": "7ebe7e3c-e34f-43e4-bf30-72ac3aea0e7b",
+            "width": 150000
+        },
+        "e7eab4a6-532c-445e-bd3e-a1fa74c9da5e": {
+            "from": "172b0491-ebfd-4c9b-ba89-fdf58e726787",
+            "layer": 20,
+            "to": "3a011179-b3e1-4c8f-b2ed-d3e6a5a6756a",
+            "width": 150000
+        }
+    },
+    "manufacturer": "",
+    "models": {
+        "0a77f23f-ff77-494e-adf5-62ed896580d4": {
+            "filename": "3d_models/mechanical/switch/ckswitches/4x3x2/SW-SMD_L3.9-W2.9-H2.0-LS4.8.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
+    "name": "4x3x2mm",
+    "pads": {
+        "39bbe40d-514c-454d-bf7f-78dfb84218e3": {
+            "name": "1",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 1360000,
+                "pad_width": 1230000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2180000,
+                    0
+                ]
+            }
+        },
+        "3df6ae06-50ef-4ef3-bb1d-ecb645736f25": {
+            "name": "2",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 1360000,
+                "pad_width": 1230000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    2180000,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {},
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [
+        "switch"
+    ],
+    "texts": {},
+    "type": "package",
+    "uuid": "7d04d675-a77b-4859-a6a4-c1ea52c7d91a"
+}

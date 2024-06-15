@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "TS-1088-AR02016",
+    "pins": {
+        "0d029ee1-5ef0-41e1-9dc1-552585a4d29c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "bc763bdc-0c35-4ccd-bcad-9ee5cde92cc4": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "a854cd80-59a2-42a4-8ffe-ec950ede46fb"
+}

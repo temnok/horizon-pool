@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "24637ded-a40c-4e82-9498-6d7a75c69438": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a854cd80-59a2-42a4-8ffe-ec950ede46fb"
+        }
+    },
+    "manufacturer": "",
+    "name": "TS-1088-AR02016",
+    "prefix": "SW",
+    "tags": [],
+    "type": "entity",
+    "uuid": "e445cdf0-fc7e-413b-a253-e5f9cbee8ec0"
+}

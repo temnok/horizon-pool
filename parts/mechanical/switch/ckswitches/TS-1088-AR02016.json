@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "TS-1088-AR02016"
+    ],
+    "datasheet": [
+        false,
+        "https://lcsc.com/product-detail/Tactile-Switches_XUNPU-TS-1088-AR02016_C720477.html"
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "e445cdf0-fc7e-413b-a253-e5f9cbee8ec0",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "7d04d675-a77b-4859-a6a4-c1ea52c7d91a",
+    "pad_map": {
+        "39bbe40d-514c-454d-bf7f-78dfb84218e3": {
+            "gate": "24637ded-a40c-4e82-9498-6d7a75c69438",
+            "pin": "0d029ee1-5ef0-41e1-9dc1-552585a4d29c"
+        },
+        "3df6ae06-50ef-4ef3-bb1d-ecb645736f25": {
+            "gate": "24637ded-a40c-4e82-9498-6d7a75c69438",
+            "pin": "bc763bdc-0c35-4ccd-bcad-9ee5cde92cc4"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "7d047341-099b-488c-ab71-9def62b75781",
+    "value": [
+        false,
+        ""
+    ]
+}
