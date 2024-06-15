@@ -1,0 +1,174 @@
+{
+    "arcs": {},
+    "default_model": "e09615e2-5a9d-4d63-8b4b-0c2bf698d314",
+    "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 1000000
+        },
+        "grids": {}
+    },
+    "junctions": {
+        "090af67a-4c08-4f01-a52b-238f5bd8187b": {
+            "position": [
+                -1400000,
+                1580000
+            ]
+        },
+        "43ce86ff-5f30-40f4-8beb-3006af7ad656": {
+            "position": [
+                1400000,
+                -1580000
+            ]
+        },
+        "adf9a2c9-e6fa-45b7-867d-80dd034b2380": {
+            "position": [
+                1400000,
+                1580000
+            ]
+        },
+        "de0a15e7-ada2-4cbf-9200-f64888dc0636": {
+            "position": [
+                -1400000,
+                -1580000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {
+        "0551f6c7-2995-4e6a-bebe-3c3892ad0c11": {
+            "from": "43ce86ff-5f30-40f4-8beb-3006af7ad656",
+            "layer": 20,
+            "to": "de0a15e7-ada2-4cbf-9200-f64888dc0636",
+            "width": 150000
+        },
+        "ccd8a699-eeaa-47e4-8083-090b04609f1d": {
+            "from": "de0a15e7-ada2-4cbf-9200-f64888dc0636",
+            "layer": 20,
+            "to": "090af67a-4c08-4f01-a52b-238f5bd8187b",
+            "width": 150000
+        },
+        "f416b230-10ca-4284-ab7d-845c8968bc25": {
+            "from": "adf9a2c9-e6fa-45b7-867d-80dd034b2380",
+            "layer": 20,
+            "to": "43ce86ff-5f30-40f4-8beb-3006af7ad656",
+            "width": 150000
+        },
+        "f583f74e-62ed-4831-86a4-0747bdc1de57": {
+            "from": "090af67a-4c08-4f01-a52b-238f5bd8187b",
+            "layer": 20,
+            "to": "adf9a2c9-e6fa-45b7-867d-80dd034b2380",
+            "width": 150000
+        }
+    },
+    "manufacturer": "Shou Han",
+    "models": {
+        "e09615e2-5a9d-4d63-8b4b-0c2bf698d314": {
+            "filename": "3d_models/mechanical/switch/ckswitches/shou-han/KEY-SMD_4P-L3.7-W3.0-H1.9-LS4.7-P1.5.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
+    "name": "TS342A4P-WZ",
+    "pads": {
+        "06f97d8a-f7cf-4b1f-bada-b78db79f9749": {
+            "name": "4",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 700000,
+                "pad_width": 1180000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    2210000,
+                    750000
+                ]
+            }
+        },
+        "0ce20a2d-d374-4df9-9406-f27335d795a0": {
+            "name": "2",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 700000,
+                "pad_width": 1180000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2210000,
+                    -750000
+                ]
+            }
+        },
+        "4e615025-708c-4980-b38c-2a47402ac54e": {
+            "name": "3",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 700000,
+                "pad_width": 1180000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    2210000,
+                    -750000
+                ]
+            }
+        },
+        "da91cd86-b6c8-42f9-8c3c-31a4305efb01": {
+            "name": "1",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 700000,
+                "pad_width": 1180000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2210000,
+                    750000
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {},
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [
+        "switch"
+    ],
+    "texts": {},
+    "type": "package",
+    "uuid": "50972313-69bd-4c74-be6b-1fecbcdefc29"
+}

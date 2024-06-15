@@ -1,0 +1,32 @@
+{
+    "manufacturer": "",
+    "name": "TS342A4P-WZ",
+    "pins": {
+        "2a958004-1df5-42c8-adbe-059a5963009f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D",
+            "swap_group": 0
+        },
+        "685ad6ac-1e0f-49e6-a99c-f63c8f711abd": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "7dd51d00-7571-462e-ab8a-35d06df21cae": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 0
+        },
+        "970bafd1-6495-40c6-b461-1ac99b5039f4": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "C",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "84987e97-20db-4451-99ea-05734930155d"
+}

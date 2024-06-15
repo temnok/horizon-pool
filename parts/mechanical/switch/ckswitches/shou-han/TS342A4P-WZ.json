@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "TS342A4P-WZ"
+    ],
+    "datasheet": [
+        false,
+        "https://lcsc.com/product-detail/Tactile-Switches_SHOU-HAN-TS342A4P-WZ_C557592.html"
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "ab4c382b-7c4c-4c95-9dee-8e6240461e75",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "50972313-69bd-4c74-be6b-1fecbcdefc29",
+    "pad_map": {
+        "06f97d8a-f7cf-4b1f-bada-b78db79f9749": {
+            "gate": "f99c2326-d75b-4ae2-ab99-0b8eb96a7824",
+            "pin": "2a958004-1df5-42c8-adbe-059a5963009f"
+        },
+        "0ce20a2d-d374-4df9-9406-f27335d795a0": {
+            "gate": "f99c2326-d75b-4ae2-ab99-0b8eb96a7824",
+            "pin": "7dd51d00-7571-462e-ab8a-35d06df21cae"
+        },
+        "4e615025-708c-4980-b38c-2a47402ac54e": {
+            "gate": "f99c2326-d75b-4ae2-ab99-0b8eb96a7824",
+            "pin": "970bafd1-6495-40c6-b461-1ac99b5039f4"
+        },
+        "da91cd86-b6c8-42f9-8c3c-31a4305efb01": {
+            "gate": "f99c2326-d75b-4ae2-ab99-0b8eb96a7824",
+            "pin": "685ad6ac-1e0f-49e6-a99c-f63c8f711abd"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "a8660ff4-a9e0-4d05-87e0-09091fd57739",
+    "value": [
+        false,
+        ""
+    ]
+}

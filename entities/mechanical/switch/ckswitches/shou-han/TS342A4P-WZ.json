@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "f99c2326-d75b-4ae2-ab99-0b8eb96a7824": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "84987e97-20db-4451-99ea-05734930155d"
+        }
+    },
+    "manufacturer": "",
+    "name": "TS342A4P-WZ",
+    "prefix": "SW",
+    "tags": [],
+    "type": "entity",
+    "uuid": "ab4c382b-7c4c-4c95-9dee-8e6240461e75"
+}
