@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "fb91a6ab-413d-4761-b496-ace2cbf895d7": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "5da06911-f034-48d1-9b89-24033b6be7ab"
+        }
+    },
+    "manufacturer": "",
+    "name": "AFC07-S22ECA-00",
+    "prefix": "X",
+    "tags": [],
+    "type": "entity",
+    "uuid": "1a2263e7-a541-40d3-95ca-f4edd022dae7"
+}
